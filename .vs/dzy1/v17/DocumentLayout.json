@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\Monoalphabetic_Substitution.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:Monoalphabetic_Substitution.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:word1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\cipher.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:cipher.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:word2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6AE79A2D-7117-4A4A-AA26-EA64449FBC35}|dzy1.pyproj|solutionrelative:word3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cipher.txt",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\cipher.txt",
+              "RelativeDocumentMoniker": "cipher.txt",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\cipher.txt",
+              "RelativeToolTip": "cipher.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-12T07:09:53.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monoalphabetic_Substitution.py",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\Monoalphabetic_Substitution.py",
+              "RelativeDocumentMoniker": "Monoalphabetic_Substitution.py",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\Monoalphabetic_Substitution.py",
+              "RelativeToolTip": "Monoalphabetic_Substitution.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-12T07:09:53.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "word1.txt",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word1.txt",
+              "RelativeDocumentMoniker": "word1.txt",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word1.txt",
+              "RelativeToolTip": "word1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-12T07:09:53.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "word3.txt",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word3.txt",
+              "RelativeDocumentMoniker": "word3.txt",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word3.txt",
+              "RelativeToolTip": "word3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-12T07:09:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "word2.txt",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word2.txt",
+              "RelativeDocumentMoniker": "word2.txt",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\word2.txt",
+              "RelativeToolTip": "word2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-12T07:09:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "E:\\1dasi\\111ms\\111ms\\mmxdzy\\1\\dzy1\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-07-12T07:09:53.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
